@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository
+This is a readme file, it's useful for what the program does
